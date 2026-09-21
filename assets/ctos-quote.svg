@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="118" viewBox="0 0 720 118" role="img" aria-labelledby="title desc">
+  <title id="title">ctOS secure message</title>
+  <desc id="desc">You are less valuable than the data you produce.</desc>
+  <defs>
+    <filter id="glow"><feGaussianBlur stdDeviation="2.2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="reveal"><rect x="38" y="64" width="0" height="30"><animate attributeName="width" values="0;650;650;0" keyTimes="0;0.52;0.84;1" dur="7s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+  <rect x="1" y="1" width="718" height="116" rx="8" fill="#0b132b" stroke="#00d2ff" stroke-opacity=".82"/>
+  <path d="M22 25h88M610 25h88M22 93h88M610 93h88" stroke="#00d2ff" stroke-opacity=".35"/>
+  <text x="27" y="32" fill="#00d2ff" font-family="monospace" font-size="12">ctOS // SECURE_CHANNEL</text>
+  <g clip-path="url(#reveal)" filter="url(#glow)">
+    <text x="38" y="84" fill="#b9f4ff" font-family="Courier New, monospace" font-size="19" font-weight="bold">"You are less valuable than the data you produce."</text>
+  </g>
+  <rect x="38" y="62" width="3" height="28" fill="#00d2ff">
+    <animate attributeName="x" values="38;690;690;38" keyTimes="0;0.52;0.84;1" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.52;0.65;0.86;1" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</svg>
