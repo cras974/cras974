@@ -1,24 +1,10 @@
 <div align="center">
-
-<div align="center">
-  <img src="https://shields.io" alt="ctOS Secure" />
-  
-  <p align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 22px; font-weight: bold; color: #00d2ff; background: #0b132b; padding: 15px; border-radius: 5px; border: 1px solid #00d2ff; width: fit-content; white-space: nowrap; overflow: hidden; border-right: 3px solid #00d2ff; animation: typing 4s steps(45, end) infinite, blink-caret .75s step-end infinite; box-shadow: 0 0 15px rgba(0, 210, 255, 0.2);">
-    "You are less valuable than the data you produce."
-  </p>
+  <img src="https://img.shields.io/badge/ctOS-SECURE-00d2ff?style=for-the-badge&labelColor=0b132b" alt="ctOS Secure" />
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/cras974/cras974/main/assets/ctos-quote.svg"
+       width="720"
+       alt="You are less valuable than the data you produce." />
 </div>
-
-<style>
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: #00d2ff; }
-  }
-</style>
-
 
 # Miguel Ángel García
 `SYSADMIN IN TRAINING` · `INFRASTRUCTURE` · `AUTOMATION`
