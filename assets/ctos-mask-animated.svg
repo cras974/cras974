@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Animated ctOS-style hacker mask</title>
+  <desc id="desc">A cyan digital mask with X eyes and a scanning glitch effect.</desc>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#071318"/><stop offset="1" stop-color="#0d0f12"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="scan" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 1H8" stroke="#00d9d1" stroke-opacity=".12"/></pattern>
+  </defs>
+  <rect width="640" height="360" rx="16" fill="url(#bg)" stroke="#1c6467"/>
+  <rect width="640" height="360" rx="16" fill="url(#scan)"/>
+  <g opacity=".55" stroke="#00d9d1" fill="none"><path d="M40 55h115M485 55h115M40 305h115M485 305h115"/><path d="M68 44v22M572 44v22M68 294v22M572 294v22"/></g>
+  <g filter="url(#glow)">
+    <path d="M220 75 L420 75 462 130 438 255 376 300 264 300 202 255 178 130Z" fill="#102b2e" stroke="#00d9d1" stroke-width="5"/>
+    <path d="M224 150 Q320 200 416 150 L395 251 Q320 280 245 251Z" fill="#071518" stroke="#1e7d80" stroke-width="3"/>
+    <g stroke="#00e9e0" stroke-width="12" stroke-linecap="square">
+      <path d="M225 133l58 55m0-55l-58 55"/><path d="M357 133l58 55m0-55l-58 55"/>
+    </g>
+    <path d="M275 236 Q320 258 365 236" fill="none" stroke="#f5c542" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <rect x="0" y="0" width="640" height="10" fill="#00d9d1" opacity=".75">
+    <animate attributeName="y" values="0;350;0" dur="2.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;.8;0" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+  <g font-family="monospace" fill="#00d9d1"><text x="28" y="35" font-size="14">ctOS // VISUAL_ID</text><text x="447" y="335" font-size="13">SIGNAL: ACTIVE</text></g>
+  <g opacity=".55"><rect x="92" y="103" width="80" height="4" fill="#00d9d1"><animate attributeName="width" values="80;135;80" dur="1.2s" repeatCount="indefinite"/></rect><rect x="468" y="258" width="95" height="4" fill="#f5c542"><animate attributeName="x" values="468;438;468" dur="1.7s" repeatCount="indefinite"/></rect></g>
+</svg>
