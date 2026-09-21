@@ -13,8 +13,6 @@
 ![Location](https://img.shields.io/badge/NODE-SPAIN-00d9d1?style=for-the-badge&labelColor=0b1116)
 ![Mode](https://img.shields.io/badge/MODE-LEARNING-f5c542?style=for-the-badge&labelColor=0b1116)
 
-</div>
-
 ---
 
 <div align="center">
