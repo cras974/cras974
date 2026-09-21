@@ -1,61 +1,71 @@
-# <p align="center">🛠️ Miguel Ángel García</p>
+<div align="center">
 
-<p align="center">
-  <strong>Sysadmin & Infrastructure specialization Student | Automation Enthusiast</strong><br>
-</p>
-
-<p align="center">
-  <img src="[https://img.shields.io/badge/Status-Learning-238636?style=for-the-badge](https://img.shields.io/badge/Status-Learning-238636?style=for-the-badge)" />
-  <img src="[https://img.shields.io/badge/Location-Spain-orange?style=for-the-badge](https://img.shields.io/badge/Location-Spain-orange?style=for-the-badge)" />
-</p>
-
-<p align="center">
-  <img src="[https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)" />
-  <img src="[https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)" />
-</p>
-
----
-
-### 🖥️ System Log: `whoami`
-
-```zsh
-$ mgarcia.sh --profile
-> Role: IT Infrastructure & Systems Administration (Student).
-> Status: Learning and deploying new environments.
-> Expertise: Virtualization & Basic Containerization.
-> Goal: Master Infrastructure as Code (IaC).
+```text
+  ██████╗████████╗ ██████╗ ███████╗
+ ██╔════╝╚══██╔══╝██╔═══██╗██╔════╝
+ ██║        ██║   ██║   ██║███████╗
+ ██║        ██║   ██║   ██║╚════██║
+ ╚██████╗  ██║   ╚██████╔╝███████║
+  ╚═════╝  ╚═╝    ╚═════╝ ╚══════╝
 ```
 
----
+# Miguel Ángel García
+`SYSADMIN IN TRAINING` · `INFRASTRUCTURE` · `AUTOMATION`
 
-### 📊 Skill Metrics (Level: Beginner)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00d9d1?style=for-the-badge&labelColor=0b1116)
+![Location](https://img.shields.io/badge/NODE-SPAIN-00d9d1?style=for-the-badge&labelColor=0b1116)
+![Mode](https://img.shields.io/badge/MODE-LEARNING-f5c542?style=for-the-badge&labelColor=0b1116)
 
-| Technology | Proficiency |
-| :--- | :--- |
-| **Python** | 🟦⬜⬜⬜⬜ (25%) - Beginner |
-| **Bash** | 🟩⬜⬜⬜⬜ (20%) - Beginner |
-| **SQL** | 🟦🟦⬜⬜⬜ (40%) - Beginner |
-| **HTML & CSS** | 🟧🟧🟧🟧⬜ (70%) - Advanced |
-| **XML & XSL & XPATH** | 🟨🟨⬜⬜⬜ (40%) - Beginner |
+</div>
 
 ---
 
-### 🔧 Tech Stack & Capabilities
-
-| Core Systems | DevSecOps | Tools & Monitoring |
-| :--- | :--- | :--- |
-| 🐧 **OS:** Debian & Ubuntu | 🐳 **Orchestration:** Docker Compose | 📊 **Data:** Metabase & Grafana |
-| ☁️ **Virt:** Proxmox VE | 🤖 **Automation:** Basic Ansible | 🛡️ **Security:** VPNs & Firewalls |
-| 📡 **Networks:** VLANs & Routing | 🔄 **CI/CD:** GitHub Actions | 📝 **Docs:** Markdown & Certificated Office |
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cras974/cras974/main/assets/ctos-mask-animated.svg" width="640" alt="ctOS animated hacker mask" />
+</div>
 
 ---
 
-### 📁 Featured Learning Project
-> **The Project:** High-Availability Document Pipeline.
-> **The Tech:** `Proxmox` + `Docker` + `n8n` + `Paperless-ngx`.
-> **The Outcome:** Un sistema automatizado para ingesta de documentos. Actualmente en fase de optimización y aprendizaje sobre gestión de contenedores.
+## `// SYSTEM_SCAN`
+
+```bash
+$ whoami
+> Infrastructure & Systems Administration student
+> Building, breaking and automating environments
+> Current target: Infrastructure as Code
+
+$ status --brief
+> ONLINE · LEARNING · DEPLOYING
+```
+
+## `// DEPLOYMENT_STACK`
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-0b1116?style=for-the-badge&logo=linux&logoColor=00d9d1" />
+  <img src="https://img.shields.io/badge/Docker-0b1116?style=for-the-badge&logo=docker&logoColor=00d9d1" />
+  <img src="https://img.shields.io/badge/Proxmox-0b1116?style=for-the-badge&logo=proxmox&logoColor=00d9d1" />
+  <img src="https://img.shields.io/badge/Ansible-0b1116?style=for-the-badge&logo=ansible&logoColor=00d9d1" />
+  <img src="https://img.shields.io/badge/Python-0b1116?style=for-the-badge&logo=python&logoColor=00d9d1" />
+  <img src="https://img.shields.io/badge/Prometheus-0b1116?style=for-the-badge&logo=prometheus&logoColor=00d9d1" />
+  <img src="https://img.shields.io/badge/Grafana-0b1116?style=for-the-badge&logo=grafana&logoColor=00d9d1" />
+</p>
+
+## `// LIVE_TELEMETRY`
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=cras974&show_icons=true&theme=transparent&title_color=00d9d1&text_color=b7c9cb&icon_color=00d9d1&border_color=1f4a4d&hide_border=false" />
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=cras974&background=0b1116&ring=00d9d1&fire=f5c542&currStreakLabel=00d9d1&sideLabels=b7c9cb&dates=789093&border=1f4a4d" />
+
+![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=cras974&bg_color=0b1116&color=b7c9cb&line=00d9d1&point=f5c542&area=true&hide_border=false)
+
+## `// CURRENT_OPERATION`
+
+> **Infrastructure Monitoring Lab**  
+> `Prometheus` + `Grafana` + `Node Exporter` + `Docker Compose`  
+> Collecting system metrics, creating actionable dashboards and turning live telemetry into infrastructure decisions.
 
 ---
+
+<div align="center">
+  <sub>PRIVACY IS DEAD. DATA LIVES.</sub><br/>
+  <a href="https://github.com/cras974">github.com/cras974</a>
+</div>
