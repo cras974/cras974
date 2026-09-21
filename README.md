@@ -55,8 +55,6 @@ $ status --brief
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=cras974&show_icons=true&theme=transparent&title_color=00d9d1&text_color=b7c9cb&icon_color=00d9d1&border_color=1f4a4d&hide_border=false" />
 <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=cras974&background=0b1116&ring=00d9d1&fire=f5c542&currStreakLabel=00d9d1&sideLabels=b7c9cb&dates=789093&border=1f4a4d" />
 
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=cras974&bg_color=0b1116&color=b7c9cb&line=00d9d1&point=f5c542&area=true&hide_border=false)
-
 ## `// CURRENT_OPERATION`
 
 > **Infrastructure Monitoring Lab**  
