@@ -53,8 +53,11 @@ $ status --brief
 ## `// CURRENT_OPERATION`
 
 > **Infrastructure Monitoring Lab**  
-> `Prometheus` + `Grafana` + `Node Exporter` + `Docker Compose`  
+> `Prometheus` + `Grafana` + `Node Exporter` + `Docker Compose`  + `DHCP Server` + `NAT` + `Telnet` + `TSL` + `MySQL`
 > Collecting system metrics, creating actionable dashboards and turning live telemetry into infrastructure decisions.
+> > **IAC**  
+> `Terraform` + `AWS` + `Complex Variables`
+> Infraestructure as code automtization.
 
 ---
 
